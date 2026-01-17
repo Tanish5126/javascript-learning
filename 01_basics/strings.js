@@ -1,9 +1,11 @@
-let name1 = "Tanish Gawade";
+// let name1 = "Tanish Gawade";
 
 // let name2 = new String("Tanish")
 
 // console.log(typeof name1);   //string
 // console.log(typeof name2);   // object
+
+// console.log(name2)
 
 
 
