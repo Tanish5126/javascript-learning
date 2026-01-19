@@ -14,7 +14,7 @@
 // console.log(+false)  //prints 0
 
 
-/* Prefix and Postfix increment operator*/
+//-----------------------------Prefix and Postfix increment operator--------------------------//
 // let gameCounter = 100;
 // gameCounter++                // postfix
 // console.log(gameCounter);
@@ -38,3 +38,18 @@
 // const b = ++a;
 // console.log(`a:${a}, b:${b}`);
 // // Expected output: "a:4, b:4"
+
+
+//-----------------------UNARY AND BINARY----------------------//
+
+// let x = 8;
+// x = -x;
+// console.log(x);     // An operator is unary if it has a single operand
+
+
+
+
+
+// let a = 5;
+// let b = 8;
+// console.log(a-b);   // An operator is binary if it has two operands.
